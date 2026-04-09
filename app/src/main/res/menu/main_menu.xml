@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_manage_people"
+        android:title="Manage People"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_yearly_history"
+        android:title="Yearly Summary"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_bar_chart"
+        android:title="Expense Chart"
+        app:showAsAction="never" />
+</menu>
